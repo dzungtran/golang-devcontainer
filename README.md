@@ -11,7 +11,7 @@ Any feedback and pull requests are welcome and highly appreciated. Feel free to 
 - IDE supports devcontainer
 - Minimum GO version: 1.18 - (uses `go work` feature)
 
-## Usages
+## How to use
 
 > Click **[Use this template](https://github.com/dzungtran/golang-devcontainer/generate)** feature for personal use. And **Fork** when you want contribute this repo.
 
