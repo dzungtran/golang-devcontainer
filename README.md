@@ -7,7 +7,7 @@ Any feedback and pull requests are welcome and highly appreciated. Feel free to 
 
 ## Requirements
     
-- Docker (ofcouse)
+- Docker (of course)
 - IDE supports devcontainer
 - Minimum GO version: 1.18 - (uses `go work` feature)
 
