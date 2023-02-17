@@ -26,7 +26,7 @@ Any feedback and pull requests are welcome and highly appreciated. Feel free to 
 
 ## Notes
 
-- Maybe you need add you ssh key to this container for project cloning.
+- Maybe you need add your SSH key to this container for project cloning.
 - You can click **[Use this template](https://github.com/dzungtran/golang-devcontainer/generate)** to customize your devcontainer and personal use.
 - In case you're working on private repos: you will need add `export GOPRIVATE=github.com/<git-user>/*` to `~/.bashrc`
 - You can change default GO version of container by: edit file `devcontainer.json`, default this repo support GO version 1.19.
